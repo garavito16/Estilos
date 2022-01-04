@@ -1,0 +1,27 @@
+.style {
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+}
+
+span {
+    color: skyblue;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    color: white;
+    background-color: rebeccapurple;
+}
+
+h3 {
+    text-decoration: underline;
+    text-align: right;
+    color: black;
+    background-color: skyblue;
+}
